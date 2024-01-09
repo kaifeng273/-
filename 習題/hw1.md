@@ -1,18 +1,24 @@
 # 費氏數列的迴圈版
 
 ```
-n=int(imput("輸入數字"))
+n=int(input("輸入數字"))
 
 def fibonacci(n):
-    fib_sequence = [0, 1]
-    
-    for i in range(2, n):
-        next_term = fib_sequence[-1] + fib_sequence[-2]
-        fib_sequence.append(next_term)
-    
-    return fib_sequence
+    if n <= 0:
+        return "請輸入正整數"
+    elif n == 1:
+        return 1
+    elif n == 2:
+        return 1
+    else:
+        a, b = 1, 1
+        for _ in range(n - 2):
+            a, b = b, a + b
+        return b
+
 
 
 result = fibonacci(n)
 print(result)
+
 ```
