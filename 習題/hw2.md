@@ -55,13 +55,11 @@ def power2n(n,memo={}):
     if n in memo:
         return memo[n]
     
-    # 遞迴基本情況
     if n == 0:
         return 1
     elif n == 1:
         return 2
     
-    # 遞迴計算，將結果儲存在查表表格中
     result = 2 * power2n(n - 1, memo)
     memo[n] = result
     return result
