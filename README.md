@@ -8,5 +8,5 @@
 ## [習題七](https://github.com/kaifeng273/alg/blob/main/%E7%BF%92%E9%A1%8C/hw7.md) 使用ChatGPT輔助
 ## [習題八](https://github.com/kaifeng273/alg/blob/main/%E7%BF%92%E9%A1%8C/hw8.md) 
 ## [習題九](https://github.com/kaifeng273/alg/blob/main/%E7%BF%92%E9%A1%8C/hw9.md) 參考ChatGPT理解後微調
-## [習題十](https://github.com/kaifeng273/alg/blob/main/%E7%BF%92%E9%A1%8C/hw10.md) 參考ChatGPT理解後微調
+## [習題十](https://github.com/kaifeng273/alg/blob/main/%E7%BF%92%E9%A1%8C/hw10.md) 參考ChatGPT，使用numpy解決問題
 ## [習題十一](https://github.com/kaifeng273/alg/blob/main/%E7%BF%92%E9%A1%8C/hw11.md) 參考ChatGPT理解後微調
