@@ -14,3 +14,7 @@
 ### 4. 成果的影響： 
 他的工作改變了計算機科學的面貌，從專業技術人員專用的特殊機械轉變為一種旨在擴充用戶智慧並促進協作的媒介。他的成就對當今計算機科學和信息技術的發展產生了深遠的影響。
 
+## 參考連結
+https://zh.wikipedia.org/wiki/%E9%81%93%E6%A0%BC%E6%8B%89%E6%96%AF%C2%B7%E6%81%A9%E6%A0%BC%E5%B0%94%E5%B7%B4%E7%89%B9
+
+https://amturing.acm.org/award_winners/engelbart_5078811.cfm
